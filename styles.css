@@ -1,0 +1,20 @@
+
+h1 {
+    text-align: center;
+}
+form { 
+    max-width: 400 ;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 00 10px rgba(0, 0, 0 , 0.1);
+}
+input[ type="submit"] {
+    width: 40%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    cursor:pointer;
+}
